@@ -1,0 +1,8 @@
+fastapi==0.108.0
+uvicorn[standard]==0.24.0
+google-cloud-vision==3.4.5
+google-cloud-storage==2.10.0
+google-cloud-secret-manager==2.16.4
+google-auth==2.23.4
+pydantic==2.5.0
+pillow==10.1.0
